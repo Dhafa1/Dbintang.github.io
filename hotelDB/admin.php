@@ -2,7 +2,7 @@
 <html>
 <head></head>
 	<title>Hotel DB</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="stile.css">
 </head>
 <body>
 <div class="main">
